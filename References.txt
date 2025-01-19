@@ -1,0 +1,46 @@
+2-edge-twinless blocks:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0007449721000257
+
+
+
+**********************************************************************
+
+
+http://mitpress.mit.edu/9780262530910/introduction-to-algorithms/
+
+
+**********************************************************************
+
+
+
+Sequential and parallel algorithms and data structure
+
+https://link.springer.com/book/10.1007/978-3-030-25209-0
+
+
+
+**********************************************************************
+
+
+algorithms for dense graphs and network on the random access computer:
+
+
+https://link.springer.com/article/10.1007/BF01940880
+
+
+
+**********************************************************************
+
+
+Twinless strongly connected components:
+
+https://link.springer.com/chapter/10.1007/978-0-387-39934-8_17
+
+
+
+**********************************************************************
+
+https://www.sciencedirect.com/science/article/abs/pii/S0020019013000288
+
+

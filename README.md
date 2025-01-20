@@ -1,6 +1,6 @@
 # 2024-2025-Algorithms-Assignment
 Syria
-2024-2025 Assignment Overview - 12 Students - Latakia University (Tishreen)
+2024-2025 Assignment Overview - 13 Students - Latakia University (Tishreen)
 _____________________________________________________________________________________
 Task: Algorithms and Data Structure - First Semester (2024-2025)
 _____________________________________________________________________________________
@@ -8,7 +8,7 @@ A) The Python file 'Graph.py' contains a class called Graph, which enables us to
 
 B) We put the references in a text file called 'References.txt'.
 
-Every one of us (the 12 students) contributed to this project. Of course, we coded in different programming languages, and when done, we united the logic of the written code to be in Python for its ease of use.
+Every one of us (the 13 students) contributed to this project. Of course, we coded in different programming languages, and when done, we united the logic of the written code to be in Python for its ease of use.
 
 ♥ HUGE THANKS "DR. RAED JABERI" FOR TAKING CARE OF YOUR STUDENTS... WE LOVE YOU AND WE PRAY FOR YOU ♥
 _____________________________________________________________________________________
